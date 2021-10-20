@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    
+	background-color: 
+	#ff003c
+	;
+	
+	
+	
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+	color: royalblue;
+}
+
+input {
+    background-color: royalblue;
+color: red
+	;
+	
+}
+
+button {
+    background-color: royalblue;
+   color: red
+   
+	;
+	margin-left: 2%;
+	
+}
+div{
+	color: royalblue;
+}
